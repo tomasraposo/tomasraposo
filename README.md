@@ -5,6 +5,6 @@ My main career goal as a software engineer is to deliver reliable, secure and sc
 - 🇵🇹 Portuguese, based in London, UK
 - 💻 MSci Computer Science at QMUL
 - 🏢 Software engineer intern at Arm in the CE-PE-SW team
-- 🔭 Currently working on my bachelors thesis on _declarative debugging and program synthesis_
+- 🔭 Currently working on my bachelors thesis on _hybrid algorithmic debugging and program synthesis_ (see: PyDD)
 - 💬 Ask me about software toolchain design and development
 - 📫 How to reach me: linkedin/in/tomás-raposo-108207176/
