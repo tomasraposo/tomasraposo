@@ -1,9 +1,23 @@
-### Hi there 👋 I'm Tomás
+# Hey 👋 I'm Tomás
 
-My main career goal as a software engineer is to deliver reliable, secure and scalable solutions to real-world problems. I care about the entire software development life cycle from its design and deployment to its maintenance.
+I design, build and operate infrastructure that just works, so teams can focus on what they're actually building.
 
-- 🇵🇹 Portuguese, based in Gothenburg, SE
-- 🏢 DevOps/Platform engineer at lynes, SE
-- 💻 MSci Computer Science at QMUL
-- 💬 Ask me about software and cloud infrastructure, networks, security, toolchain and automation.
-- 📫 How to reach me: linkedin/in/tomás-raposo-108207176/
+Deep interest in platform engineering, site reliability, DevEx, and automation. Always happy to chat about Kubernetes, five-nines architecture, networking, infrastructure patterns, GitOps, or your favourite productivity hack.
+
+## Currently
+**Senior SRE I @ Talkdesk** – Platform Engineering, Edge
+
+## Background
+**MSci Computer Science** – Queen Mary University of London
+
+## Core Areas
+💻 Software & cloud infrastructure  
+🌐 Networking & security  
+🔧 Toolchain & automation  
+📊 Site reliability & operational excellence
+
+📫 **Connect**: [LinkedIn](https://linkedin.com/in/tomás-raposo-108207176)
+
+---
+
+_I like boring and predictable over clever and surprising._
