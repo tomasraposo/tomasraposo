@@ -2,7 +2,7 @@
 
 I design, build and operate infrastructure that just works, so teams can focus on what they're actually building.
 
-Deep interest in platform engineering, site reliability, DevEx, and automation. Always happy to chat about Kubernetes, five-nines architecture, networking, infrastructure patterns, GitOps, or your favourite productivity hack.
+Deep interest in platform engineering, site reliability, network engineering, DevEx, and automation. Always happy to chat about Kubernetes, five-nines architecture, networking, infrastructure patterns, GitOps, or your favourite productivity hack.
 
 ## Currently
 **Senior SRE I @ Talkdesk** – Platform Engineering, Edge
